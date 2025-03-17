@@ -48,7 +48,7 @@ pip install pandas matplotlib plotly pillow ffmpeg-python kaleido
 
 ## Connect & Explore
 - View my art and visuals: [Instagram @hi.voltage.visuals](https://www.instagram.com/hi.voltage.visuals)
-- Contact: janet@example.com (replace with real email)
+- Contact: janet.tx.rod@gmail.com (replace with real email)
 
 ---
 
